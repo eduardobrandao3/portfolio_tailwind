@@ -7,6 +7,7 @@
 </div>
 
 <h2>Link do projeto pronto:</h2>
+<a href="https://eduardobrandao3.github.io/portfolio_tailwind/" target=_blank>Github Pages do Projeto </a>
 
 
 <h2>Design do projeto em Desktop:</h2>
