@@ -14,5 +14,3 @@
 
 <h2>Design do projeto em Mobile:</h2>
 <img width="430" height="5782" alt="Mobile" src="https://github.com/user-attachments/assets/a6aa3dd4-a1d4-4908-9ae1-45a794c77d41" />
-
-
