@@ -9,6 +9,11 @@
 <h2>Link do projeto pronto:</h2>
 <a href="https://eduardobrandao3.github.io/portfolio_tailwind/" target="_blank">Github Pages do Projeto </a>
 
+<h2>Algumas imagens do projeto pronto:</h2>
+<h3>Desktop - início:</h3>
+<img width="1897" height="907" alt="proj-tailwind-pt1" src="https://github.com/user-attachments/assets/cbf193a3-cb1e-4bb4-9a30-73c2a6654383" />
+<h3>Mobile - início:</h3>
+<img width="533" height="822" alt="proj-tailwind-pt2" src="https://github.com/user-attachments/assets/3ccedda3-09b2-4f57-be69-d703d445518e" />
 
 <h2>Design do projeto em Desktop:</h2>
 <img width="288" height="424" alt="Desktop" src="https://github.com/user-attachments/assets/9efc7219-42f5-4059-9e77-f474850bcb9e" />
