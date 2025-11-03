@@ -13,6 +13,6 @@
 <img width="288" height="424" alt="Desktop" src="https://github.com/user-attachments/assets/9efc7219-42f5-4059-9e77-f474850bcb9e" />
 
 <h2>Design do projeto em Mobile:</h2>
-<img width="430" height="3782" alt="Mobile" src="https://github.com/user-attachments/assets/a6aa3dd4-a1d4-4908-9ae1-45a794c77d41" />
+<img width="430" height="5782" alt="Mobile" src="https://github.com/user-attachments/assets/a6aa3dd4-a1d4-4908-9ae1-45a794c77d41" />
 
 
